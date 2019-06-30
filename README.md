@@ -1,4 +1,4 @@
-# 混沌工程原则
+# 混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）
 
 http://principlesofchaos.org/ 简体中文版
 
